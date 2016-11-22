@@ -1,0 +1,12 @@
+C:\Users\Gno\documents\visual studio 2015\Projects\ProyectoHilos\LibraryRE\bin\Debug\LibraryRE.dll
+C:\Users\Gno\documents\visual studio 2015\Projects\ProyectoHilos\LibraryRE\bin\Debug\LibraryRE.pdb
+C:\Users\Gno\documents\visual studio 2015\Projects\ProyectoHilos\LibraryRE\bin\Debug\ConexionInterface.dll
+C:\Users\Gno\documents\visual studio 2015\Projects\ProyectoHilos\LibraryRE\bin\Debug\ConexionStream.dll
+C:\Users\Gno\documents\visual studio 2015\Projects\ProyectoHilos\LibraryRE\bin\Debug\MySql.Data.dll
+C:\Users\Gno\documents\visual studio 2015\Projects\ProyectoHilos\LibraryRE\bin\Debug\Npgsql.dll
+C:\Users\Gno\documents\visual studio 2015\Projects\ProyectoHilos\LibraryRE\bin\Debug\ConexionInterface.pdb
+C:\Users\Gno\documents\visual studio 2015\Projects\ProyectoHilos\LibraryRE\bin\Debug\ConexionStream.pdb
+C:\Users\Gno\documents\visual studio 2015\Projects\ProyectoHilos\LibraryRE\bin\Debug\Npgsql.xml
+C:\Users\Gno\documents\visual studio 2015\Projects\ProyectoHilos\LibraryRE\obj\Debug\LibraryRE.dll
+C:\Users\Gno\documents\visual studio 2015\Projects\ProyectoHilos\LibraryRE\obj\Debug\LibraryRE.pdb
+C:\Users\Gno\documents\visual studio 2015\Projects\ProyectoHilos\LibraryRE\obj\Debug\LibraryRE.csprojResolveAssemblyReference.cache
